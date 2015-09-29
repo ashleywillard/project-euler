@@ -1,0 +1,12 @@
+.content {
+	width: 90%;
+	height: 600px;
+	border: 1px solid black;
+	margin: 50px auto;
+	padding: 20px;
+}
+
+.enter {
+	display: block;
+	margin: 20px auto 0px auto;
+}

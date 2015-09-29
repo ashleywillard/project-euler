@@ -1,7 +1,8 @@
+
+
 function play(callback) {
 	process.stdin.resume();
 	process.stdin.setEncoding('utf8');
-
 	process.stdout.write('Hello! What is your name?\n')
 	process.stdin.once('data', function(text) {
 		text = text.toString().trim();
