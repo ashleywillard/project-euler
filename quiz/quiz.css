@@ -1,0 +1,46 @@
+.question {
+	width: 90%;
+	height: 150px;
+	background: #DDDDDD;
+	padding: 30px;
+	margin: 40px auto;
+	border: 1px black solid;
+}
+
+#submit {
+	display: block;
+	margin: 40px auto 0;
+}
+
+.hidden {
+	display: none;
+}
+
+.no-answer {
+	color: red;
+}
+
+li {
+	list-style-type: none;
+}
+
+h1 {
+	text-align: center;
+}
+
+.fail {
+	color: red;
+}
+
+.pass {
+	color: green;
+}
+
+.result {
+	margin: auto;
+	text-align: center;
+}
+
+.retake {
+	display: block;
+}

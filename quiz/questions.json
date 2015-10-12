@@ -1,0 +1,30 @@
+[{
+    "question": "What food makes up nearly all (around 99%) of a Giant Panda’s diet?",
+    "choices": ["Bamboo", "Grass", "People"],
+    "answer": "Bamboo"
+},
+{
+    "question": "True or false? Mice live for up to 10 years.",
+    "choices": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "What is the name of the phobia that involves an abnormal fear of spiders?",
+    "choices": ["Apotemnophobia", "Arachnophobia", "Hippopotomonstrosesquipedaliophobia"],
+    "answer": "Arachnophobia"
+},
+{
+    "question": "What is the largest type of ‘big cat’ in the world?",
+    "choices": ["Fluffy (my cat, he's real fat)", "Tiger", "Wale"],
+    "answer": "Tiger"
+},
+{
+    "question": "True or false? Crocodiles have no sweat glands so they use their mouths to release heat.",
+    "choices": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Are butterflies insects?",
+    "choices": ["Yes", "No", "Butterflies creep me out"],
+    "answer": "Yes"
+}]
